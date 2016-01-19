@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>br.com.datarey</groupId>
   <artifactId>farma-FX-app</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.2-SNAPSHOT</version>
   
   <distributionManagement>
         <repository>
@@ -25,7 +25,7 @@
 		<dependency>
 			<groupId>br.com.datarey</groupId>
 			<artifactId>infrastructure</artifactId>
-			<version>0.0.5</version>
+			<version>0.0.6</version>
 			<scope>compile</scope>
 		</dependency>
 
