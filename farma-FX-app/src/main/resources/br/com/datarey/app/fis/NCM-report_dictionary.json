@@ -1,0 +1,4 @@
+[
+	{ "campo" : "codigo",                            				"tipo" : "java.lang.Long",          "tamanho" : 10, "formato" :  "",   		        "alinhamento" : "Direita",   "expandir" : false, "ordenacao" : "Ascendente", "agrupar" : false, "totalizacao" : "Nenhuma", "comparacao" : "Igual",   "valor" : null },
+	{ "campo" : "nome",                              				"tipo" : "java.lang.String",        "tamanho" : 50, "formato" :  "",           		"alinhamento" : "Esquerda",  "expandir" : false, "ordenacao" : "Ascendente", "agrupar" : false, "totalizacao" : "Nenhuma", "comparacao" : "Contido", "valor" : null }
+]
